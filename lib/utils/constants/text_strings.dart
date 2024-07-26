@@ -8,8 +8,8 @@ class AppTextString {
   static const String onBoardingSubtitle2 = "For Seamless Transactions, Choose Your Payment Path  Your Convenience, Our Priority";
   static const String onBoardingSubtitle3 = "From Ours Doorstep To Yours - Swift, Secure, And Contactless Delivery";
 
-  static const String homeAppBarTitle = "Một ngày tốt để mua sắm";
-  static const String homeAppBarSubTitle = "";
+  static const String homeAppBarTitle = "Good day for shopping";
+  static const String homeAppBarSubTitle = "Hồ Chí Minh City";
 
   // -- Authentication Form Text
   static const String firstName = "First Name";
