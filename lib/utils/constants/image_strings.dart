@@ -21,4 +21,11 @@ class AppImageString {
   static const String deliveredEmailIllustration = "assets/images/animations/sammy-line-man-receives-a-mail.png";
   static const String verifyIllustration = "assets/images/animations/sammy-line-travel-backpack-with-passport-and-air-ticket.gif";
 
+  // Brand Icons
+  static const String diorBrand = "assets/icons/brands/logo_dior.png";
+  static const String chanelBrand = "assets/icons/brands/logo_chanel.png";
+  static const String afNanBrand = "assets/icons/brands/logo_afnan.png";
+  static const String cKBrand = "assets/icons/brands/logo_calvin_klein.png";
+  static const String lVBrand = "assets/icons/brands/logo_louis_vuitton.png";
+  static const String ySLBrand = "assets/icons/brands/logo_Yves_Saint_Laurent.png";
 }

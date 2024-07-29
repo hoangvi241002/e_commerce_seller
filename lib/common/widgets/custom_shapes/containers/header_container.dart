@@ -20,7 +20,7 @@ class AppHeaderContainer extends StatelessWidget {
           color: MainColors.secondary,
           child: Stack(
             children: [
-              Positioned(top: -150, right: -250, child: AppCircularContainer(backgroundColor: MainColors.white.withOpacity(0.1))),
+              Positioned(top: -150, right: -250, child: AppCircularContainer(backgroundColor: MainColors.white.withOpacity(0.2))),
               Positioned(top: 100, right: -300,child: AppCircularContainer(backgroundColor: MainColors.white.withOpacity(0.1))),
               child,
             ],
