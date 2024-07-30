@@ -28,4 +28,10 @@ class AppImageString {
   static const String cKBrand = "assets/icons/brands/logo_calvin_klein.png";
   static const String lVBrand = "assets/icons/brands/logo_louis_vuitton.png";
   static const String ySLBrand = "assets/icons/brands/logo_Yves_Saint_Laurent.png";
+
+  // Banners
+  static const String promoBanner1 = "assets/images/banners/banner1.png";
+  static const String promoBanner2 = "assets/images/banners/banner2.png";
+  static const String promoBanner3 = "assets/images/banners/banner3.png";
+  static const String promoBanner4 = "assets/images/banners/banner4.png";
 }
